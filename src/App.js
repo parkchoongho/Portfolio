@@ -14,7 +14,7 @@ function App() {
           <div className="profile__github">
             <i className="fab fa-github"></i>
             <a href="https://github.com/parkchoongho">
-              https://github.com/parkchoongho
+              <span>https://github.com/parkchoongho</span>
             </a>
           </div>
           <div className="profile__blog">
@@ -58,7 +58,10 @@ function App() {
         </div>
         <div className="project">
           <div className="project__title">
-            <h1>Wetube</h1>
+            <h3>Wetube</h3>
+          </div>
+          <div className="project__url">
+            <a href="https://sleepy-pare-6cd65c.netlify.com/">Project URL</a>
           </div>
           <div className="project__paragraph">
             <p>
