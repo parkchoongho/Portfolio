@@ -77,7 +77,7 @@ function App() {
                   회원가입, 로그인, 로그아웃, 영상업로드 등입니다. 백엔드는
                   NodeJS, Express로 개발했고 데이터 베이스는 MongoDB를
                   활용했습니다. 백엔드 배포는 Heroku로 업로드된 상태입니다.
-                  프런트의 경우 React로 개발했습니다.
+                  프런트의 경우 React로 개발했고 Netlify로 배포했습니다.
                 </p>
               </div>
               <div className="project__skills">
